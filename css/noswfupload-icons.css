@@ -1,0 +1,107 @@
+div.noswfupload li {
+    background-image: url(../icons/unknown.gif);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+div.noswfupload li.as {
+    background-image: url(../icons/as.gif);
+}
+div.noswfupload li.avi {
+    background-image: url(../icons/avi.gif);
+}
+div.noswfupload li.bmp {
+    background-image: url(../icons/bmp.gif);
+}
+div.noswfupload li.c {
+    background-image: url(../icons/c.gif);
+}
+div.noswfupload li.cf {
+    background-image: url(../icons/cf.gif);
+}
+div.noswfupload li.cpp {
+    background-image: url(../icons/cpp.gif);
+}
+div.noswfupload li.cs {
+    background-image: url(../icons/cs.gif);
+}
+div.noswfupload li.doc, div.noswfupload li.odt, div.noswfupload li.rtf {
+    background-image: url(../icons/doc.gif);
+}
+div.noswfupload li.eml {
+    background-image: url(../icons/eml.gif);
+}
+div.noswfupload li.exe {
+    background-image: url(../icons/exe.gif);
+}
+div.noswfupload li.fh {
+    background-image: url(../icons/fh.gif);
+}
+div.noswfupload li.fla {
+    background-image: url(../icons/fla.gif);
+}
+div.noswfupload li.tft {
+    background-image: url(../icons/font.gif);
+}
+div.noswfupload li.htm, div.noswfupload li.html {
+    background-image: url(../icons/html.gif);
+}
+div.noswfupload li.gif, div.noswfupload li.jpg, div.noswfupload li.jpeg, div.noswfupload li.png {
+    background-image: url(../icons/img.gif);
+}
+div.noswfupload li.iso {
+    background-image: url(../icons/iso.gif);
+}
+div.noswfupload li.jar, div.noswfupload li.java {
+    background-image: url(../icons/jar.gif);
+}
+div.noswfupload li.js, div.noswfupload li.py {
+    background-image: url(../icons/js.gif);
+}
+div.noswfupload li.xhtml, div.noswfupload li.shtml, div.noswfupload li.tpl {
+    background-image: url(../icons/layout.gif);
+}
+div.noswfupload li.map {
+    background-image: url(../icons/map.gif);
+}
+div.noswfupload li.mp4 {
+    background-image: url(../icons/mp4.gif);
+}
+div.noswfupload li.pdf {
+    background-image: url(../icons/pdf.gif);
+}
+div.noswfupload li.php {
+    background-image: url(../icons/php.gif);
+}
+div.noswfupload li.ppt {
+    background-image: url(../icons/ppt.gif);
+}
+div.noswfupload li.rpm {
+    background-image: url(../icons/rpm.gif);
+}
+div.noswfupload li.rss {
+    background-image: url(../icons/rss.gif);
+}
+div.noswfupload li.rb {
+    background-image: url(../icons/ruby.gif);
+}
+div.noswfupload li.sln {
+    background-image: url(../icons/sln.gif);
+}
+div.noswfupload li.sql {
+    background-image: url(../icons/sql.gif);
+}
+div.noswfupload li.txt {
+    background-image: url(../icons/unknown.gif);
+}
+div.noswfupload li.mp3, div.noswfupload li.wav, div.noswfupload li.wave {
+    background-image: url(../icons/wav.gif);
+}
+div.noswfupload li.xml {
+    background-image: url(../icons/xml.gif);
+}
+div.noswfupload li.xsl, div.noswfupload li.csv {
+    background-image: url(../icons/xsl.gif);
+}
+div.noswfupload li.zip, div.noswfupload li.rar, div.noswfupload li.gz, div.noswfupload li.tar, div.noswfupload li.7z {
+    background-image: url(../icons/zip.gif);
+}
